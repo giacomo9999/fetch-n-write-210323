@@ -1,0 +1,3 @@
+Simple Node app that queries a public API at "https://data.cityofnewyork.us/api/views/25th-nujf/rows.json?accessType=DOWNLOAD" and writes the firts ten entries in res.data to a JSON file named "ten_data_points.json" in the same directory.  
+
+You might well ask: "Why did I feel the need to do this?" and the answer is "Because I hadn't actually written anything out from a Node app in a long time and I'd simply forgotten how to do it."  
